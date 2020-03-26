@@ -1,5 +1,5 @@
 # Dormitory_manager
-mainfile /src/interface.py<br>
+mainfile /scr/interface.py<br>
 Login ด้วยหรัสของหอพัก (username: admin,password: 123456)<br>
 คำสั่งต่าง ๆ<br>
 home ดูข้อมูลห้องพักทั้งหมด<br>
