@@ -1,5 +1,4 @@
 from dormitory import Dormitory
-from room import Room
 
 def login():
     username = input("Username : ")
